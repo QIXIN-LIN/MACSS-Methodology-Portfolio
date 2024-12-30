@@ -14,7 +14,7 @@ Welcome to my portfolio of selected course projects from the University of Chica
 ### **2. Perspectives on Computational Modeling (MACS 30100)**  
 - **Course Description**: Introduced computational modeling techniques, including machine learning, validation, unsupervised learning, and deep learning, with practical implementation through notebooks, quizzes, and a final project.  
 - **Repository**: [macs30100](https://github.com/QIXIN-LIN/macs30100)  
-- **Class Notebooks**: [class-notebooks](https://github.com/QIXIN-LIN/macs30100/tree/main/class-notebook)
+- **Class Notebooks**: [class-notebook](https://github.com/QIXIN-LIN/macs30100/tree/main/class-notebook)
   - Covered key topics like exploratory data analysis (EDA), decision trees, linear models, ensemble methods, clustering, PCA, and deep learning for vision and text.  
 - **Final Project**: [modeling-project](https://github.com/QIXIN-LIN/macs30100/tree/main/modeling-project)  
   - **Objective**: Classified gender and race from a custom image dataset using supervised (decision trees, linear models) and deep learning (CNNs) techniques, alongside unsupervised methods like clustering and PCA.  
