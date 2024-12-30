@@ -11,36 +11,14 @@ Welcome to my portfolio of selected course projects from the University of Chica
   - **Key Techniques**: Implemented custom hashtable data structures with linear probing, utilized Markov Models for statistical language relationships, and applied algorithm development and object-oriented programming.
   - **Outcome**: Successfully built a working application demonstrating Python development skills and the practical application of Markov Models in natural language processing.
 
-### **2. Perspectives on Computational Modeling (MACS 30100)**
-- **Course Description**: This course provided an introduction to computational modeling techniques, including machine learning models, validation practices, unsupervised learning, and deep learning workflows. The course emphasized practical implementation through notebooks, assignments, and a comprehensive final project.
-- **Repository**: [MACS 30100 Course Repository](https://github.com/QIXIN-LIN/macs30100)
-  - **Contents**:
-    1. **Class Notebooks**: Hands-on practice with key concepts such as exploratory data analysis (EDA), decision trees, linear models, ensemble methods, clustering, PCA, and deep learning.
-    2. **Class Quizzes**: Practical assessments reinforcing concepts like decision trees and linear models.
-    3. **Final Project**: A gender and race classification project using image data, integrating various techniques learned in the course.
-
-#### **Key Highlights**
-1. **Course Practice Notebooks**:
-   - **Topics Covered**:
-     - Exploratory data analysis (EDA), data preprocessing workflows.
-     - Supervised learning: Decision trees, linear models, ensemble methods.
-     - Unsupervised learning: Clustering, dimensionality reduction (PCA).
-     - Deep learning: Workflows for computer vision and text analysis using convolutional neural networks (CNNs) and recurrent neural networks (RNNs).
-
-2. **Final Project**: [Gender and Race Classification on Images](https://github.com/QIXIN-LIN/macs30100/tree/main/modeling-project)
-   - **Objective**: Applied computational modeling techniques to classify gender and race from image data, incorporating supervised and unsupervised learning approaches.
-   - **Dataset**: Custom image dataset requiring extensive preprocessing, including cleaning, resizing, and annotation.
-   - **Key Techniques**:
-     - **Exploratory Data Analysis (EDA)**: Investigated dataset distributions and identified potential biases.
-     - **Supervised Learning**: Implemented decision trees and linear models as baseline methods.
-     - **Deep Learning**: Utilized convolutional neural networks (CNNs) for advanced classification.
-     - **Unsupervised Learning**: Explored clustering and PCA to uncover latent patterns in the data.
-   - **Workflow**:
-     - `P1_EDA.ipynb`: Dataset preparation and exploratory data analysis.
-     - `P2_1_DT.ipynb` and `P2_2_linear.ipynb`: Baseline models using decision trees and linear classifiers.
-     - `P3_evaluation.ipynb`: Model evaluation and hyperparameter tuning.
-     - `P4_unsupervised.ipynb`: Analysis of clustering and dimensionality reduction methods.
-   - **Outcome**: Successfully applied a range of modeling techniques to a real-world dataset, achieving insights into model performance and dataset characteristics.
+### **2. Perspectives on Computational Modeling (MACS 30100)**  
+- **Course Description**: Introduced computational modeling techniques, including machine learning, validation, unsupervised learning, and deep learning, with practical implementation through notebooks, quizzes, and a final project.  
+- **Repository**: [MACS 30100 Course Repository](https://github.com/QIXIN-LIN/macs30100)  
+- **Class Notebooks**: Covered key topics like exploratory data analysis (EDA), decision trees, linear models, ensemble methods, clustering, PCA, and deep learning for vision and text.  
+- **Final Project**: [Gender and Race Classification on Images](https://github.com/QIXIN-LIN/macs30100/tree/main/modeling-project)  
+  - **Objective**: Classified gender and race from a custom image dataset using supervised (decision trees, linear models) and deep learning (CNNs) techniques, alongside unsupervised methods like clustering and PCA.  
+  - **Key Techniques**: Conducted exploratory data analysis, implemented decision trees and linear models for baseline comparisons, developed convolutional neural networks (CNNs) for image classification, and applied clustering and PCA to uncover latent data patterns. Learned image preprocessing workflows, including resizing, normalization, and augmentation, to prepare the dataset for modeling.  
+  - **Outcome**: Successfully applied computational modeling methods (originally focused on non-image datasets like the Iris dataset) to a real-world image dataset after self-learning image preprocessing, showcasing effective workflows for preprocessing, implementation, and evaluation.  
 
 ### **3. Computer Science with Social Science Applications 2 (MACS 30122)**
 - **Course Description**: Focused on computer science principles applied to social science problems, covering algorithms, data structures, and visualization.
