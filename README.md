@@ -81,9 +81,9 @@ Welcome to my portfolio of selected course projects from the University of Chica
 - **Methods**: Machine Learning, Neural Networks, Content Analysis, Topic Modeling, Distributed Computing.
 
 ## 🔗 My Website
-To explore more about my study and research, visit my website: [https://qiixn-lin.github.io/](https://qixin-lin.github.io/)).
+To explore more about my study and research, visit [my personal website](https://qixin-lin.github.io/).
 
 ## 📧 Contact
-- **GitHub**: [https://github.com/QIXIN-LIN](https://github.com/QIXIN-LIN)
-- **LinkedIn**: [https://www.linkedin.com/in/qixin-lin](https://www.linkedin.com/in/qixin-lin)
-- **Email**: qxlin@uchicago.edu
+- **GitHub**: [QIXIN-LIN](https://github.com/QIXIN-LIN)
+- **LinkedIn**: [Qixin (Chi-Shin) Lin](https://www.linkedin.com/in/qixin-lin)
+- **Email**: qxlin [at] uchicago [dot] edu
