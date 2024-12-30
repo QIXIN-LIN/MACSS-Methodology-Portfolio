@@ -13,9 +13,10 @@ Welcome to my portfolio of selected course projects from the University of Chica
 
 ### **2. Perspectives on Computational Modeling (MACS 30100)**  
 - **Course Description**: Introduced computational modeling techniques, including machine learning, validation, unsupervised learning, and deep learning, with practical implementation through notebooks, quizzes, and a final project.  
-- **Repository**: [MACS 30100 Course Repository](https://github.com/QIXIN-LIN/macs30100)  
-- **Class Notebooks**: Covered key topics like exploratory data analysis (EDA), decision trees, linear models, ensemble methods, clustering, PCA, and deep learning for vision and text.  
-- **Final Project**: [Gender and Race Classification on Images](https://github.com/QIXIN-LIN/macs30100/tree/main/modeling-project)  
+- **Repository**: [macs30100](https://github.com/QIXIN-LIN/macs30100)  
+- **Class Notebooks**: [class-notebooks](https://github.com/QIXIN-LIN/macs30100/tree/main/class-notebook)
+  - Covered key topics like exploratory data analysis (EDA), decision trees, linear models, ensemble methods, clustering, PCA, and deep learning for vision and text.  
+- **Final Project**: [modeling-project](https://github.com/QIXIN-LIN/macs30100/tree/main/modeling-project)  
   - **Objective**: Classified gender and race from a custom image dataset using supervised (decision trees, linear models) and deep learning (CNNs) techniques, alongside unsupervised methods like clustering and PCA.  
   - **Key Techniques**: Conducted exploratory data analysis, implemented decision trees and linear models for baseline comparisons, developed convolutional neural networks (CNNs) for image classification, and applied clustering and PCA to uncover latent data patterns. Learned image preprocessing workflows, including resizing, normalization, and augmentation, to prepare the dataset for modeling.  
   - **Outcome**: Successfully applied computational modeling methods (originally focused on non-image datasets like the Iris dataset) to a real-world image dataset after self-learning image preprocessing, showcasing effective workflows for preprocessing, implementation, and evaluation.  
@@ -29,7 +30,7 @@ Welcome to my portfolio of selected course projects from the University of Chica
 
 ### **4. Computational Content Analysis (MACS 60000)**
 - **Course Description**: This course covered advanced methods for analyzing large-scale textual data, including topic modeling, sentiment analysis, and natural language processing (NLP).
-- **Course Notebook**: [macs60000-course-notebook](https://github.com/QIXIN-LIN/macs60000-course-notebook)
+- **Course Notebooks**: [macs60000-course-notebooks](https://github.com/QIXIN-LIN/macs60000-course-notebooks)
   - Includes exercises on content analysis, text classification, and NLP techniques.
 - **Final Project**: [macs60000-final-project](https://github.com/QIXIN-LIN/macs60000-final-project)
   - **Objective**: Analyzed fanfiction trends to understand participatory culture using the AO3 dataset, encompassing over 200,000 fanfiction records from 1999 to 2020.
