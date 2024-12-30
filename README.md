@@ -80,10 +80,10 @@ Welcome to my portfolio of selected course projects from the University of Chica
 - **Libraries and Frameworks**: Scikit-learn, TensorFlow, Hugging Face Transformers, Pandas, Matplotlib.
 - **Methods**: Machine Learning, Neural Networks, Content Analysis, Topic Modeling, Distributed Computing.
 
-## 🔗 Portfolio Website
-To explore more about my work, visit my portfolio website: [Portfolio Website Link](https://yourusername.github.io/MACSS-Methodology-Portfolio/).
+## 🔗 My Website
+To explore more about my study and research, visit my website: [https://qiixn-lin.github.io/](https://qixin-lin.github.io/)).
 
 ## 📧 Contact
 - **GitHub**: [https://github.com/QIXIN-LIN](https://github.com/QIXIN-LIN)
-- **LinkedIn**: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [https://www.linkedin.com/in/qixin-lin](https://www.linkedin.com/in/qixin-lin)
 - **Email**: qxlin@uchicago.edu
